@@ -1,4 +1,4 @@
-# Sprint 1 Plan
+# Sprint N Plan
 
 > **How to use this template:** Copy this to a SprintNPlan.md (i.e. Sprint1Plan.md).  Replace every `[bracketed placeholder]` with your team's information. Delete the instruction lines (they start with ✏️) before you submit. Copy the "Sprint Backlog Item" section once for each item in your sprint.
 
